@@ -25,6 +25,10 @@
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/Rohannn483/Rohannn483/main/metrics.plugin.isocalendar.svg" alt="Isometric Contribution Calendar"/>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rohannn483/Rohannn483/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="100%"/>
+</div>
+ 
 ## `> whoami` 🤔
 
 ```python
