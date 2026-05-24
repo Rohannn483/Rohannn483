@@ -10,7 +10,7 @@
 ```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Data+Scientist+%F0%9F%93%8A;Python+Automation+%F0%9F%90%8D;Turning+data+into+decisions+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Professional+Bug+Creator+%F0%9F%90%9B;Stack+Overflow+Copy+Paste+Expert+%F0%9F%8F%86;My+code+works%2C+I+don't+know+why+%F0%9F%A4%B7;Turning+chai+%E2%98%95+into+code+since+2024" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,26 +25,31 @@
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/Rohannn483/Rohannn483/main/metrics.plugin.isocalendar.svg" alt="Isometric Contribution Calendar"/>
 
-## `> whoami`
+## `> whoami` 🤔
 
 ```python
 class Datta:
-    name     = "Dattatray Popat Waghmare"
-    alias    = "Rohannn483"
-    location = "India 🇮🇳"
-    role     = "AI/ML Engineer & Data Scientist"
-    
-    skills   = {
-        "languages" : ["Python", "SQL", "Bash"],
-        "ml_stack"  : ["scikit-learn", "Pandas", "NumPy", "Matplotlib"],
-        "tools"     : ["Jupyter", "VS Code", "Git", "GitHub Actions"],
+    name        = "Dattatray Popat Waghmare"
+    alias       = "Rohannn483"
+    also_known  = "Mr. Bean of Data Science 🫘"
+    location    = "India 🇮🇳 (chai capital of the world)"
+
+    skills = {
+        "languages" : ["Python", "SQL", "Bash", "Google-Fu"],
+        "ml_stack"  : ["scikit-learn", "Pandas", "NumPy", "StackOverflow"],
+        "tools"     : ["Jupyter", "VS Code", "Git", "Ctrl+Z"],
     }
+
+    learning    = ["Deep Learning", "MLOps", "How to center a div"]
     
-    learning = ["Deep Learning", "MLOps", "Time Series Forecasting"]
-    goal     = "Build ML models that solve real problems 🚀"
+    current_mood = "// TODO: fix this later (since 6 months)"
     
+    def debug(self):
+        print("It works on my machine 🤷")
+        return "Ship it."
+
     def fun_fact(self):
-        return "I let Python handle the boring stuff 🐍"
+        return "99 bugs in the code, I fix one, 127 bugs remain 🙃"
 ```
 
 <br clear="right"/>
@@ -55,45 +60,49 @@ class Datta:
 
 <div align="center">
 
-#### Core Languages
+#### Languages I Actually Use
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F7FF)
 ![SQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00F7FF)
 ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00F7FF)
 
-#### ML / Data Science
+#### Languages I Pretend to Know
+![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Markdown](https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=ffffff)
+
+#### ML / Data Science (My Comfort Zone 🏠)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00F7FF)
 ![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABF7)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=00F7FF)
 
-#### Tools & Environment
+#### Tools (aka My Crutches 🩼)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=github-actions&logoColor=00F7FF)
+![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-0D1117?style=for-the-badge&logo=stack-overflow&logoColor=F48024)
 
 </div>
 
 ---
 
-## `> ls projects/`
+## `> ls projects/` 📁
 
 <div align="center">
 
 | Project | Description | Stack | Stars |
 |:--------|:------------|:------|:-----:|
-| 🗂️ **[file-organizer](https://github.com/Rohannn483/file-organizer)** | Auto-sorts files into smart folders | `Python` `os` `shutil` | ⭐ |
-| 🔐 **[password-manager](https://github.com/Rohannn483/password-manager)** | Local encrypted password vault | `Python` `cryptography` | ⭐ |
-| 🌊 **[titanic-eda](https://github.com/Rohannn483/titanic-eda-project)** | Survival analysis + stunning visuals | `Pandas` `Seaborn` | ⭐ |
-| 📈 **[time-series-analysis](https://github.com/Rohannn483/time-series-analysis-project)** | Forecasting trends from history | `Statsmodels` `Matplotlib` | — |
-| 🕷️ **[web-scraper](https://github.com/Rohannn483/web-scraper)** | Automated web data extraction | `BeautifulSoup` `requests` | ⭐ |
-| 🧹 **[data-cleaning](https://github.com/Rohannn483/data-cleaning-project)** | Raw → clean data pipeline | `Pandas` `NumPy` | ⭐ |
+| 🗂️ **[file-organizer](https://github.com/Rohannn483/file-organizer)** | Auto-sorts files (my room is still a mess tho) | `Python` `os` | ⭐ |
+| 🔐 **[password-manager](https://github.com/Rohannn483/password-manager)** | Remembers passwords so my brain doesn't have to | `Python` `cryptography` | ⭐ |
+| 🌊 **[titanic-eda](https://github.com/Rohannn483/titanic-eda-project)** | Spoiler: Jack didn't have to die 📊 | `Pandas` `Seaborn` | ⭐ |
+| 📈 **[time-series-analysis](https://github.com/Rohannn483/time-series-analysis-project)** | Predicting the future (still can't predict my deadlines) | `Statsmodels` | — |
+| 🕷️ **[web-scraper](https://github.com/Rohannn483/web-scraper)** | Legally stealing data from the internet | `BeautifulSoup` | ⭐ |
+| 🧹 **[data-cleaning](https://github.com/Rohannn483/data-cleaning-project)** | 80% of Data Science is this. They lied about the rest | `Pandas` `NumPy` | ⭐ |
 
 </div>
 
 ---
 
-## `> github --stats`
+## `> github --stats` 📊
 
 <div align="center">
 
@@ -111,23 +120,16 @@ class Datta:
 
 ---
 
-## `> metrics --full`
+## `> metrics --full` 🔬
 
 <div align="center">
-
-<!-- These auto-generate via GitHub Actions (see setup guide below) -->
 <img src="https://raw.githubusercontent.com/Rohannn483/Rohannn483/main/metrics.plugin.languages.svg" alt="Languages" width="49%"/>
-<img src="https://raw.githubusercontent.com/Rohannn483/Rohannn483/main/metrics.plugin.habits.svg" alt="Habits" width="49%"/>
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/Rohannn483/Rohannn483/main/metrics.plugin.isocalendar.full.svg" alt="Contribution Calendar" width="100%"/>
-
 </div>
 
 ---
 
-## `> git log --graph`
+## `> git log --graph` 📉
 
 <div align="center">
 
@@ -137,26 +139,61 @@ class Datta:
 
 ---
 
-## `> currently --learning`
+## `> currently --learning` 😅
 
 ```
-[████████████░░░░░░░░] Machine Learning        62%
-[███████░░░░░░░░░░░░░] Deep Learning           35%
-[████████████████░░░░] Data Analysis           80%
-[█████████████░░░░░░░] Python Automation       68%
-[████████░░░░░░░░░░░░] Time Series             42%
+SKILL                    REALITY CHECK
+─────────────────────────────────────────────────────────────
+Machine Learning  [████████████░░░░░░░░]  62%  "almost there"
+Deep Learning     [███████░░░░░░░░░░░░░]  35%  "youtube pe hoon"
+Data Analysis     [████████████████░░░░]  80%  "ye toh aata hai"
+Python            [█████████████░░░░░░░]  68%  "sochta hoon aata hai"
+Time Series       [████████░░░░░░░░░░░░]  42%  "graphs toh banta hai"
+Fixing My Bugs    [█░░░░░░░░░░░░░░░░░░░]   5%  "// TODO: someday"
+```
+
+---
+
+## `> daily_routine.py` 🌅
+
+```python
+while alive:
+    chai = make_chai()          # ☕ critical dependency
+    open_vs_code()
+    try:
+        write_clean_code()      # rarely executed
+    except BrainNotWorking:
+        copy_from_stackoverflow()
+        pray(it_works=True)
+    finally:
+        push_to_github()        # git push --force 😈
+        blame_the_compiler()
+```
+
+---
+
+## `> error_log.txt` 🐛
+
+```
+[ERROR]   Segmentation fault: brain not found
+[WARN]    Coffee level critically low ☕
+[ERROR]   404: Motivation not found on Mondays
+[INFO]    Code works. Reason: unknown. Touching nothing.
+[WARN]    Stack overflow... on Stack Overflow
+[ERROR]   sudo make_me_a_senior_developer — Permission denied
+[INFO]    It works on my machine → closing ticket ✅
 ```
 
 ---
 
 <div align="center">
 
-**`// open to collaborations on ML & Data Science projects`**
+**`// open to collaborations — especially if chai is involved ☕`**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rohannn483-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0D1117)](https://github.com/Rohannn483)
 
 <br/>
 
-*`> system.status: BUILDING... ▋`*
+*`> system.status: BUILDING... (and occasionally breaking) ▋`*
 
 </div>
