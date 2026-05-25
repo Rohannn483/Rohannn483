@@ -28,7 +28,19 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Rohannn483/Rohannn483/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="100%"/>
 </div>
- 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rohannn483/Rohannn483/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%"/>
+  <img src="https://raw.githubusercontent.com/Rohannn483/Rohannn483/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%"/>
+  <img src="https://raw.githubusercontent.com/Rohannn483/Rohannn483/main/profile-summary-card-output/nord_dark/3-stats.svg" width="32%"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rohannn483/Rohannn483/main/profile-summary-card-output/nord_dark/4-productive-time.svg" width="50%"/>
+</div>
+
+---
+
 ## `> whoami` 🤔
 
 ```python
