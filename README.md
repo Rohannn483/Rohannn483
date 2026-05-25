@@ -9,7 +9,6 @@
 ╚═════╝ ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
 ```
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf7/images/footer.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Professional+Bug+Creator+%F0%9F%90%9B;Stack+Overflow+Copy+Paste+Expert+%F0%9F%8F%86;My+code+works%2C+I+don't+know+why+%F0%9F%A4%B7;Turning+chai+%E2%98%95+into+code+since+2024" alt="Typing SVG" />
